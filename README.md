@@ -1,4 +1,5 @@
-#Hola 👋, soy Santiago vaca
+# Hola 👋, soy Santiago vaca
+
 Soy estudiante de la universidad catolica boliviana tengo 18 años de edad mis hobies son jugar al futbol y aprender sobre el desarrollo de software me apasiona la carrera desde pequeño y mas adelante quisiera convertirme en desarrollador de sorftware
 
 🔭 I’m currently working on Massay
@@ -17,7 +18,9 @@ Soy estudiante de la universidad catolica boliviana tengo 18 años de edad mis h
 
 Connect with me:
 
-username
+correo electronico: santivacamelean@gmail.com
+
+instagram: santi_vaca05
 
 Languages and Tools:
 
