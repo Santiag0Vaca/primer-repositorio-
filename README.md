@@ -1,5 +1,9 @@
 # Hola 👋, soy Santiago vaca
 
+![name_Santiago_with_crazy_colors_on_a_crazy_backg](https://github.com/Santiag0Vaca/primer-repositorio-/assets/159297663/01df0d4f-8686-4ff4-baf3-15f4322f2c8d)
+
+
+
 Soy estudiante de la universidad catolica boliviana tengo 18 años de edad mis hobies son jugar al futbol y aprender sobre el desarrollo de software me apasiona la carrera desde pequeño y mas adelante quisiera convertirme en desarrollador de sorftware
 
 🔭 I’m currently working on Massay
