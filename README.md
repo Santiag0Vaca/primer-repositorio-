@@ -1,4 +1,4 @@
-# Hola 👋, soy Santiago vaca
+# Hey mundo como estas 👋, soy Santiago vaca
 
 Soy estudiante de la universidad catolica boliviana tengo 18 años de edad mis hobies son jugar al futbol y aprender sobre el desarrollo de software me apasiona la carrera desde pequeño y mas adelante quisiera convertirme en desarrollador de sorftware
 estoy aprendiendo a construirme como persona me gusta aprender mas sobre la tecnologia 
